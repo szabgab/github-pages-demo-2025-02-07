@@ -20,3 +20,5 @@ Text in **bold** and _italic_ and regular text
 1. cat
 2. dog
 3. snake
+
+![](https://static.themarthablog.com/2017/10/DSC_7829.jpg)
