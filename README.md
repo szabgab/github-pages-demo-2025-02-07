@@ -18,7 +18,8 @@ Text in **bold** and _italic_ and regular text
 ### smaller
 
 1. cat
-2. dog
-3. snake
+1. dog
+1. praying mantis 
+1. snake
 
 ![](https://static.themarthablog.com/2017/10/DSC_7829.jpg)
