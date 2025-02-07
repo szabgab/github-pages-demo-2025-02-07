@@ -1,5 +1,7 @@
 # Hello World
 
+[About](/about)
+
 Some text comes here
 
 עברית
